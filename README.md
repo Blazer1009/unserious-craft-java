@@ -1,2 +1,2 @@
 # unserious-craft-java
-This is the first time I have made a funny resource pack like this, I hope you enjoy it. It also contains a custom background and title! The resource pack does support 1.26.1.2! It is a chaotic Minecraft resource pack for people who don't take the game too seriously.
+This is the first time I have made a funny resource pack like this, I hope you enjoy it. It also contains a custom background and title! The resource pack does support 1.26.2! It is a chaotic Minecraft resource pack for people who don't take the game too seriously.
