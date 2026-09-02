@@ -5,6 +5,6 @@ Unserious Craft Java is a chaotic resource pack made for people who don’t take
 
 The resource pack supports Minecraft 26.2!
 
-# Download: https://github.com/Blazer1009/unserious-craft-java/releases/tag/re-release-1.26.2
+Download: https://github.com/Blazer1009/unserious-craft-java/releases/tag/26.2
 
-# Website: https://blazer1009.github.io/resource-packs-java/
+Website: https://blazer1009.github.io/resource-packs-java/
