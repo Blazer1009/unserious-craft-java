@@ -1,7 +1,7 @@
 # unserious-craft-java
 This is my first chaotic/funny Minecraft resource pack, and I hope you enjoy it!
 
-Unserious Craft Java is a chaotic resource pack made for people who don’t take Minecraft too seriously. It also includes a custom background and title to make the experience even more unserious.
+Unserious Craft Java is a chaotic resource pack made for people who don’t take Minecraft too seriously. It also includes a custom background and title logo to make the experience even more unserious.
 
 The resource pack supports Minecraft 26.2!
 
